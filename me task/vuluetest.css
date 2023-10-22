@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+
+body{
+    background-color: #000558;
+    background-image: linear-gradient(180deg, #030422 0%, #000000 50%, #000000 100%);
+    width: 100%;   
+}
+.navbar-brand{
+    color: white;
+    
+}
+.navbar{
+   
+    background-color: transparent;
+
+}
+.navbar-toggler-icon{
+    
+    color: rgb(182, 8, 8);
+
+    background-color: rgba(255, 253, 253, 0.329);
+}
+
+/* #sec1form{
+    
+
+        display: flex;
+} */
+#vuluepassinput{
+    background-color: black;
+    border-color: rgba(128, 128, 128, 0.315);
+}
+#vuluemailinput{
+    background-color: black;
+    border-color: rgba(128, 128, 128, 0.315);
+}
+
+#google{
+    border: rgba(255, 255, 255, 0.74) solid;
+    border-width: 1px;
+   color:grey;
+   display: flex;
+ width: 100%;
+ padding-top: 1px;
+ padding-bottom: 1px;
+ 
+ 
+   
+   
+}
+#google-icon{
+    width: 50px;
+    margin-top: 5px;
+    
+}
+
+
+
+#submitbutton{
+    
+    font-weight: bold;
+    width: 100%;
+  
+   
+}
+
+ 
+.box{
+    border: solidrgb(46, 45, 45);
+    border-radius: 5px;
+    background-color: rgb(46, 45, 45);
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: fit-content;
+}
+
+.menu ul li{
+    padding: 7px 25px;
+    font-size: 0.8rem;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+
+.menu ul li.current, .menu ul li:hover{
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: rgba(65, 105, 225, 0.2);
+    
+}
+
+
+.form-group{
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    position: relative;
+    /* margin: 10px 0px; */
+}
+
+
+
+
+.form-control{
+    border: 1px solid grey;
+    outline: none;
+    background-color: transparent;
+    box-shadow: 10px;
+    margin: 10px 0px;
+    width: 100%;
+    height: 45px;
+    /* padding: 10px; */
+    border-radius: 10px;
+}
+
+
+#vuluetermscheck{
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    outline: none;
+}
+
+.submitbutton{
+    color: white;
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 15px 0px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.submit.desabled{
+    background-color: grey;
+}
+
+
+
+.container{
+    width: 100%;
+    overflow: hidden;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 0px;
+    width:100%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

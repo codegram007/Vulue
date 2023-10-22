@@ -1,0 +1,351 @@
+*{
+    
+padding: 0px;
+ margin: 0px;
+ box-sizing: border-box;
+font-family: poppins;
+font-weight: 100;
+    
+    
+    
+}
+
+body{
+    width: 100%;
+    margin: 0px;
+    height: 100%;
+    background-image: linear-gradient(rgb(7, 11, 24) 10%, rgb(12, 12, 12) 90%);
+}
+#section1{
+    
+}
+.item1{
+color: #D9D9D9;
+display:;
+background-color: rgba(255, 255, 255, 0.038);
+filter: drop-shadow(blur #000000);
+border: solid transparent;
+border-style: hidden;
+border-radius: 24px;
+ /* padding: 5%; */
+height:310 ;
+
+
+}
+.lowp{
+   
+}
+#whyus{
+    display: flex;
+    justify-content:space-between;
+    text-align:center;
+    align-items: center;
+   gap: 15px;
+
+}
+#whyus2{
+   /* Rectangle 387 */
+
+box-sizing: border-box;
+position: relative;
+width: 138px;
+height: 139px;
+/* left: calc(50% - 138px/2 - 77.5px); */
+top: calc(50% - 139px/2 - 230px);
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.434) 0%, rgba(255, 255, 255, 0) 100%);
+mix-blend-mode: luminosity;
+opacity: 0.2;
+filter: drop-shadow(0px 4px 4px rgba(3, 3, 3, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+
+
+}
+#whyus3{
+    display:grid;
+    justify-content:center;
+    text-align:justify;
+    align-items: center;
+   
+}
+
+#whyus4{
+    
+    /* Rectangle 22 */
+
+box-sizing:border-box;
+position:relative;
+width: 139px;
+height: 303px;
+/* left: calc(50% - 139px/2 - 81px); */
+/* top: calc(50% - 303px/2 + 292px); */
+
+
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 100%);
+opacity: 0.2;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 24px;
+transform: rotate(-90deg);
+
+}
+
+#whyusp{
+    color: rgb(255, 255, 255);
+}
+
+.onboarding16{
+    position: relative;
+width: 100%;
+height: 989px;
+
+background: linear-gradient(180deg, #0D022D 0%, #050112 0.01%, #08090A 46.85%);
+
+}
+
+.textbox{
+    /* Textbox */
+
+position: absolute;
+width: 342px;
+height: 554px;
+left: 20px;
+top: 157px;
+
+
+
+/* Ellipse 140 */
+
+position: absolute;
+width: 75.36px;
+height: 97.06px;
+left: 241.43px;
+top: 165.96px;
+
+background: #003CD8;
+opacity: 0.5;
+filter: blur(50px);
+}
+/* Ellipse 141 */
+#eclipse141{
+
+
+position: absolute;
+width: 125.21px;
+height: 111.99px;
+left: 20px;
+top: 596.02px;
+
+background: #455A64;
+opacity: 0.5;
+filter: blur(35px);
+
+}
+
+#eclipse140{
+    /* Ellipse 140 */
+
+position: absolute;
+width: 75.36px;
+height: 97.06px;
+left: 241.43px;
+top: 165.96px;
+
+background: #003CD8;
+opacity: 0.5;
+filter: blur(50px);
+
+}
+
+
+
+  /* real glass */
+  #realglass{
+position: absolute;
+width: 342px;
+height: 554px;
+left: calc(50% - 342px/2 - 5.5px);
+top: 157px;
+
+background: rgba(196, 196, 196, 0.01);
+opacity: 0.7;
+box-shadow: inset 0px -82px 10px -64px rgba(96, 68, 145, 0.04), inset 0px 2px 2px rgba(154, 146, 210, 0.02), inset 0px 1px 20px rgba(227, 222, 255, 0.1);
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 10px;
+
+
+}
+#onboarding4{
+    position: relative;
+    width: 100%;
+    height: 989px;
+    background: linear-gradient(180deg, #0D022D 0%, #050112 0.01%, #08090A 46.85%);
+    
+}
+
+
+/* onboarding17 */
+
+.onboarding17{
+
+width: 100%;
+height: 989px;
+background: linear-gradient(180deg, #0D022D 0%, #050112 0.01%, #08090A 46.85%);
+align-items: center;
+text-align: center;
+}
+
+#app{
+
+  /* Rectangle 20 */
+
+box-sizing: border-box;
+padding-right: 70px;
+width:max-content;
+border:  solid white 1px;
+filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+text-align: center;
+height: 50px;
+
+
+}
+
+#applogo{
+    padding-right: 1rem;
+  width:50px;
+ 
+}
+#playstore{
+    border: solid white;
+    border-radius: 20px;   
+    width:max-content;
+
+    /* Rectangle 21 */
+
+box-sizing: border-box;
+
+
+width: max-content;
+
+
+
+border: 1px solid #EAEAEA;
+filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
+border-radius: 10px;
+
+}
+    /* Get on iPhone and Android */
+#downloadvulue{
+    gap:1.5rem;
+   justify-items: center;
+    display:flex;
+
+position: relative;
+}
+/* iPhone 14 */
+#iPhone{
+position:relative ;
+width: 30%;
+height: 505px;
+
+background: url(.png);
+transform: rotate(35.61deg);
+}
+
+#apptxt{
+    /* Get on iPhone */
+
+position: relative;
+width: max-content;
+height: 11px;
+left: 50px;
+bottom: 75%;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 150.5%;
+/* or 15px */
+
+color: #FFFFFF;
+
+
+}
+
+/* real glass */
+
+
+
+/* Rectangle 470 */
+/* #indicator{
+
+    position: a;
+    left: 41.48%;
+    right: 48.09%;
+    top: 84.23%;
+    bottom: 15.37%;
+    
+    background: #CACACA;
+    border-radius: 3px;  
+} */
+
+  /* Onboarding 18 */
+#onboarding18{
+  
+
+position: relative;
+width: 100%;
+height: 989px;
+
+background: linear-gradient(180deg, #0D022D 0%, #050112 0.01%, #08090A 46.85%);
+
+}
+#btnlink{
+text-decoration:overline;
+text-transform: none;
+
+}
+
+#onboarding18 a{
+    text-decoration:none;
+color: white;
+
+}
+#onboarding18 h5{
+color: rgba(140, 135, 166, 1);
+}
+
+:hover{
+    
+}
+
+#contactrow{
+    justify-content: left;
+    margin-right: 15%;
+  
+    
+    gap: 7px;
+   
+    
+}
+
+#contact{
+    background-color: white;
+    border: solid transparent;
+    border-radius: 100%;
+    border-width:24px;
+    
+}
+li{
+    color: red;
+    text-decoration-style: none;
+}
+
+/* onboarding17 */
