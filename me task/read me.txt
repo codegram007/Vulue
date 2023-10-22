@@ -1,5 +1,0 @@
-Here is the version 1 of my task. I intend to update it. I did not also do any serious Js work since i'm just getting started with Js.
-
-This is A CSS and HTML work with a little bit of Js.
-
-Thanks
